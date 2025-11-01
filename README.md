@@ -1,8 +1,8 @@
-🗒️ crud-notes · Laboratorio de Ideas  
-“Cada idea necesita un lugar donde pueda quedarse un momento.”  
-— Cristian / Zentrix  
+# 🗒️ crud-notes · Laboratorio de Ideas  
+> “Cada idea necesita un lugar donde pueda quedarse un momento.”  
+> — Cristian / Zentrix  
 
-🌊 Descripción  
+## 🌊 Descripción  
 **crud-notes** es un módulo experimental dentro del ecosistema **Cristian / Zentrix**, diseñado como un espacio visual para capturar pensamientos, ideas y fragmentos creativos.  
 
 No busca la perfección, sino el flujo: un tablero oscuro, limpio y emocional donde cada nota representa una chispa en construcción.  
@@ -12,7 +12,7 @@ Cada interacción es una pausa consciente, una microconversación entre mente y 
 
 ---
 
-⚙️ Stack y Librerías  
+## ⚙️ Stack y Librerías  
 
 | Capa | Herramienta |
 |------|--------------|
@@ -26,7 +26,7 @@ Cada interacción es una pausa consciente, una microconversación entre mente y 
 
 ---
 
-🔄 Filosofía de interacción  
+## 🔄 Filosofía de interacción  
 > “No todas las notas necesitan ser grandes para tener sentido.”  
 
 **crud-notes** no pretende organizar — sino acompañar.  
@@ -37,7 +37,7 @@ Nada interrumpe, todo fluye.
 
 ---
 
-🧩 Funcionalidades  
+## 🧩 Funcionalidades  
 
 🪶 Crear nota: mediante modal flotante, con foco y fondo difuminado.  
 📝 Editar nota: tap o clic sobre la nota → modal de edición.  
@@ -49,7 +49,8 @@ Nada interrumpe, todo fluye.
 
 ---
 
-🧭 Propósito  
+## 🧭 Propósito  
+
 Este prototipo explora la **captura emocional de ideas** dentro de un entorno funcional.  
 Representa la búsqueda de equilibrio entre **estructura y espontaneidad**, entre lo que se piensa y lo que se plasma.  
 
@@ -58,7 +59,8 @@ un lugar donde las ideas respiran antes de convertirse en sistemas.
 
 ---
 
-🌌 Autor  
+## 🌌 Autor  
+
 **Cristian Borré**  
 Diseñador y desarrollador de experiencias digitales.  
 
